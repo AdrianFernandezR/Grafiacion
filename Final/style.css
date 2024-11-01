@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(1, 1, 22);
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+
+  background-image: url("src/galaxy.gif");
+}
